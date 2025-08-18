@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Narmin 👋  
 
-<!--
-**naurrmin/naurrmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 I’m a **Creative Computing student** passionate about blending **design and technology**.  
+💻 Currently learning **HTML, CSS, JavaScript, and UI/UX Design**.  
+🎨 Exploring creative coding, storytelling, and digital design.  
+🌍 Based in UAE, with future career plans in **Ireland**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools
+- **Languages:** HTML, CSS, Python (learning javascript soon)  
+- **Design:** Figma   
+- **Other:** Git, Creative Coding, Digital Storytelling  
+
+---
+
+### 📂 Featured Projects
+- 🌐 **Portfolio Website** – My personal website showcasing projects (coming soon)  
+- 📖 **Interactive Storytelling Project** – A digital story with visuals + interactivity  (coming soon)
+- 🛍️ **E-commerce Mockup** – Simple online shop UI prototype  (coming soon)
+
+---
+
+✨ *Always learning, always creating. Let’s connect!*  
+[LinkedIn Profile] ( https://www.linkedin.com/in/narmin-sheikh-48601a368/ )
