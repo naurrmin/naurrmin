@@ -8,15 +8,15 @@
 ---
 
 ### 🔧 Skills & Tools
-- **Languages:** HTML, CSS, Python (learning javascript soon)  
+- **Languages:** HTML, CSS, Python and JavaScript   
 - **Design:** Figma   
 - **Other:** Git, Creative Coding, Digital Storytelling  
 
 ---
 
 ### 📂 Featured Projects
-- 🌐 **Portfolio Website** – My personal website showcasing projects (coming soon)  
-- 📖 **Interactive Storytelling Project** – A digital story with visuals + interactivity  (coming soon)
+- 🌐 **Portfolio Website** – My personal website showcasing projects 
+- 📖 **Interactive Storytelling Project** – A digital story with visuals + interactivity  
 - 🛍️ **E-commerce Mockup** – Simple online shop UI prototype  (coming soon)
 
 ---
